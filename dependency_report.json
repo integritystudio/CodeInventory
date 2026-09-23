@@ -168,26 +168,6 @@
         "is_external": false
       }
     ],
-    "src/generators/__init__.py": [
-      {
-        "package": ".schema",
-        "import_type": "static",
-        "line_number": 1,
-        "is_external": false
-      },
-      {
-        "package": ".dashboard",
-        "import_type": "static",
-        "line_number": 2,
-        "is_external": false
-      },
-      {
-        "package": ".rss",
-        "import_type": "static",
-        "line_number": 3,
-        "is_external": false
-      }
-    ],
     "src/generators/dashboard.py": [
       {
         "package": "json",
@@ -229,6 +209,26 @@
         "package": "datetime",
         "import_type": "static",
         "line_number": 9,
+        "is_external": false
+      }
+    ],
+    "src/generators/__init__.py": [
+      {
+        "package": ".schema",
+        "import_type": "static",
+        "line_number": 1,
+        "is_external": false
+      },
+      {
+        "package": ".dashboard",
+        "import_type": "static",
+        "line_number": 2,
+        "is_external": false
+      },
+      {
+        "package": ".rss",
+        "import_type": "static",
+        "line_number": 3,
         "is_external": false
       }
     ],
@@ -1342,7 +1342,13 @@
         "is_external": false
       }
     ],
-    "src/analyzers/preprocessing/stages/optimization.py": [
+    "src/analyzers/preprocessing/stages/transformation.py": [
+      {
+        "package": "re",
+        "import_type": "static",
+        "line_number": 7,
+        "is_external": false
+      },
       {
         "package": "dataclasses",
         "import_type": "static",
@@ -1350,25 +1356,25 @@
         "is_external": false
       },
       {
-        "package": "typing",
+        "package": "enum",
         "import_type": "static",
         "line_number": 9,
         "is_external": false
       },
       {
-        "package": ".base",
+        "package": "typing",
         "import_type": "static",
-        "line_number": 11,
+        "line_number": 10,
         "is_external": false
       },
       {
-        "package": "..config",
+        "package": ".base",
         "import_type": "static",
         "line_number": 12,
         "is_external": false
       },
       {
-        "package": "..utils.indexing",
+        "package": "..config",
         "import_type": "static",
         "line_number": 13,
         "is_external": false
@@ -1412,13 +1418,7 @@
         "is_external": false
       }
     ],
-    "src/analyzers/preprocessing/stages/transformation.py": [
-      {
-        "package": "re",
-        "import_type": "static",
-        "line_number": 7,
-        "is_external": false
-      },
+    "src/analyzers/preprocessing/stages/optimization.py": [
       {
         "package": "dataclasses",
         "import_type": "static",
@@ -1426,25 +1426,25 @@
         "is_external": false
       },
       {
-        "package": "enum",
+        "package": "typing",
         "import_type": "static",
         "line_number": 9,
         "is_external": false
       },
       {
-        "package": "typing",
+        "package": ".base",
         "import_type": "static",
-        "line_number": 10,
+        "line_number": 11,
         "is_external": false
       },
       {
-        "package": ".base",
+        "package": "..config",
         "import_type": "static",
         "line_number": 12,
         "is_external": false
       },
       {
-        "package": "..config",
+        "package": "..utils.indexing",
         "import_type": "static",
         "line_number": 13,
         "is_external": false
