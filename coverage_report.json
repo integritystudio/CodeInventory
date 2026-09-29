@@ -1689,34 +1689,6 @@
       "is_tested": true
     },
     {
-      "name": "CircularDependencyCard",
-      "file_path": "src/features/dashboard/components/DependenciesPage.tsx",
-      "line_number": 60,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "DependencyStats",
-      "file_path": "src/features/dashboard/components/DependenciesPage.tsx",
-      "line_number": 272,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "FileDependencyRow",
-      "file_path": "src/features/dashboard/components/DependenciesPage.tsx",
-      "line_number": 452,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "DependenciesPage",
-      "file_path": "src/features/dashboard/components/DependenciesPage.tsx",
-      "line_number": 594,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
       "name": "calculateHealthStatus",
       "file_path": "src/features/dashboard/components/HealthSummary.tsx",
       "line_number": 56,
@@ -1857,30 +1829,30 @@
       "is_tested": true
     },
     {
-      "name": "SeverityBreakdown",
-      "file_path": "src/features/dashboard/components/CodeQualityPage.tsx",
-      "line_number": 101,
+      "name": "CircularDependencyCard",
+      "file_path": "src/features/dashboard/components/DependenciesPage.tsx",
+      "line_number": 60,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "CategoryBreakdown",
-      "file_path": "src/features/dashboard/components/CodeQualityPage.tsx",
-      "line_number": 183,
+      "name": "DependencyStats",
+      "file_path": "src/features/dashboard/components/DependenciesPage.tsx",
+      "line_number": 272,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "IssueRow",
-      "file_path": "src/features/dashboard/components/CodeQualityPage.tsx",
-      "line_number": 246,
+      "name": "FileDependencyRow",
+      "file_path": "src/features/dashboard/components/DependenciesPage.tsx",
+      "line_number": 452,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "CodeQualityPage",
-      "file_path": "src/features/dashboard/components/CodeQualityPage.tsx",
-      "line_number": 505,
+      "name": "DependenciesPage",
+      "file_path": "src/features/dashboard/components/DependenciesPage.tsx",
+      "line_number": 594,
       "is_async": false,
       "is_tested": true
     },
@@ -1923,6 +1895,34 @@
       "name": "handleRiskClick",
       "file_path": "src/features/dashboard/components/predictions/RiskMatrix.tsx",
       "line_number": 254,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "SeverityBreakdown",
+      "file_path": "src/features/dashboard/components/CodeQualityPage.tsx",
+      "line_number": 101,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "CategoryBreakdown",
+      "file_path": "src/features/dashboard/components/CodeQualityPage.tsx",
+      "line_number": 183,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "IssueRow",
+      "file_path": "src/features/dashboard/components/CodeQualityPage.tsx",
+      "line_number": 246,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "CodeQualityPage",
+      "file_path": "src/features/dashboard/components/CodeQualityPage.tsx",
+      "line_number": 505,
       "is_async": false,
       "is_tested": true
     },
@@ -2200,48 +2200,6 @@
       "is_tested": true
     },
     {
-      "name": "ViewDialog",
-      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
-      "line_number": 55,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "DeleteDialog",
-      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
-      "line_number": 146,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "SavedViewsDropdown",
-      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
-      "line_number": 184,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "handleSubmit",
-      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
-      "line_number": 68,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "handleClose",
-      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
-      "line_number": 79,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "handleClick",
-      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
-      "line_number": 206,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
       "name": "SortableWidget",
       "file_path": "src/features/dashboard/components/personalization/DashboardEditor.tsx",
       "line_number": 117,
@@ -2329,6 +2287,48 @@
       "name": "handleResizeWidget",
       "file_path": "src/features/dashboard/components/personalization/DashboardEditor.tsx",
       "line_number": 566,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "ViewDialog",
+      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
+      "line_number": 55,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "DeleteDialog",
+      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
+      "line_number": 146,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "SavedViewsDropdown",
+      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
+      "line_number": 184,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "handleSubmit",
+      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
+      "line_number": 68,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "handleClose",
+      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
+      "line_number": 79,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "handleClick",
+      "file_path": "src/features/dashboard/components/personalization/SavedViewsDropdown.tsx",
+      "line_number": 206,
       "is_async": false,
       "is_tested": true
     },
@@ -2795,6 +2795,41 @@
       "is_tested": true
     },
     {
+      "name": "AssignDialog",
+      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
+      "line_number": 107,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "TeamMemberWorkloadCard",
+      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
+      "line_number": 215,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "IssueListItem",
+      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
+      "line_number": 284,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "IssueAssignments",
+      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
+      "line_number": 400,
+      "is_async": false,
+      "is_tested": false
+    },
+    {
+      "name": "handleAssign",
+      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
+      "line_number": 123,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
       "name": "ToolsFilterToolbar",
       "file_path": "src/features/dashboard/components/tools/ToolsFilterToolbar.tsx",
       "line_number": 27,
@@ -2844,41 +2879,6 @@
       "is_tested": true
     },
     {
-      "name": "AssignDialog",
-      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
-      "line_number": 107,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "TeamMemberWorkloadCard",
-      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
-      "line_number": 215,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "IssueListItem",
-      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
-      "line_number": 284,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "IssueAssignments",
-      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
-      "line_number": 400,
-      "is_async": false,
-      "is_tested": false
-    },
-    {
-      "name": "handleAssign",
-      "file_path": "src/features/dashboard/components/collaboration/IssueAssignments.tsx",
-      "line_number": 123,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
       "name": "ModularityDistributionChart",
       "file_path": "src/features/dashboard/components/tools/ModularityDistributionChart.tsx",
       "line_number": 23,
@@ -2900,13 +2900,6 @@
       "is_tested": false
     },
     {
-      "name": "DependencyCard",
-      "file_path": "src/features/dashboard/components/tools/DependencyCard.tsx",
-      "line_number": 21,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
       "name": "CodePreview",
       "file_path": "src/features/dashboard/components/tools/CodePreview.tsx",
       "line_number": 13,
@@ -2918,6 +2911,13 @@
       "file_path": "src/features/dashboard/components/tools/CodePreview.tsx",
       "line_number": 24,
       "is_async": true,
+      "is_tested": true
+    },
+    {
+      "name": "DependencyCard",
+      "file_path": "src/features/dashboard/components/tools/DependencyCard.tsx",
+      "line_number": 21,
+      "is_async": false,
       "is_tested": true
     },
     {
