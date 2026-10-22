@@ -1367,6 +1367,20 @@
       "is_tested": true
     },
     {
+      "name": "ToolsOverviewPageContent",
+      "file_path": "src/routes/dashboard/tools/index.tsx",
+      "line_number": 27,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "ToolsOverviewPage",
+      "file_path": "src/routes/dashboard/tools/index.tsx",
+      "line_number": 168,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
       "name": "ModuleDetailPageContent",
       "file_path": "src/routes/dashboard/tools/$moduleId.tsx",
       "line_number": 42,
@@ -1384,20 +1398,6 @@
       "name": "handleCandidateClick",
       "file_path": "src/routes/dashboard/tools/$moduleId.tsx",
       "line_number": 62,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "ToolsOverviewPageContent",
-      "file_path": "src/routes/dashboard/tools/index.tsx",
-      "line_number": 27,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "ToolsOverviewPage",
-      "file_path": "src/routes/dashboard/tools/index.tsx",
-      "line_number": 168,
       "is_async": false,
       "is_tested": true
     },
@@ -1948,6 +1948,97 @@
       "is_tested": true
     },
     {
+      "name": "InsightsPage",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 31,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "useInsightsReport",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 37,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "ConcernsList",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 55,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "useInsights",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 61,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "ImprovementsList",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 82,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "useInsightsByType",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 88,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "InsightsSummaryCard",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 108,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "useInsightsSummary",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 114,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "InsightCard",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 130,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "useAcknowledgeInsight",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 144,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "RegenerateButton",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 171,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "useRegenerateInsights",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 182,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "useInsightCounts",
+      "file_path": "src/features/dashboard/hooks/useInsights.ts",
+      "line_number": 203,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
       "name": "AnalyticsPage",
       "file_path": "src/features/dashboard/hooks/useAnalytics.ts",
       "line_number": 12,
@@ -2053,93 +2144,107 @@
       "is_tested": true
     },
     {
-      "name": "InsightsPage",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 31,
+      "name": "DashboardPage",
+      "file_path": "src/features/dashboard/hooks/index.ts",
+      "line_number": 13,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "useInsightsReport",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 37,
+      "name": "DashboardContent",
+      "file_path": "src/features/dashboard/hooks/index.ts",
+      "line_number": 23,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "ConcernsList",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 55,
+      "name": "useNotifications",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 27,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "useInsights",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 61,
+      "name": "useNotificationStats",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 38,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "ImprovementsList",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 82,
+      "name": "useAlertTriggers",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 49,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "useInsightsByType",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 88,
+      "name": "useNotificationPreferences",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 60,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "InsightsSummaryCard",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 108,
+      "name": "useMarkNotificationAsRead",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 71,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "useInsightsSummary",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 114,
+      "name": "useMarkAllNotificationsAsRead",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 86,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "InsightCard",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 130,
+      "name": "useDismissNotification",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 100,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "useAcknowledgeInsight",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 144,
+      "name": "useCreateAlertTrigger",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 115,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "RegenerateButton",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 171,
+      "name": "useUpdateAlertTrigger",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 131,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "useRegenerateInsights",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 182,
+      "name": "useDeleteAlertTrigger",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 151,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "useInsightCounts",
-      "file_path": "src/features/dashboard/hooks/useInsights.ts",
-      "line_number": 203,
+      "name": "useUpdateNotificationPreferences",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 166,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "useNotificationCenter",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 183,
+      "is_async": false,
+      "is_tested": false
+    },
+    {
+      "name": "useAlertTriggersManager",
+      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
+      "line_number": 205,
       "is_async": false,
       "is_tested": true
     },
@@ -2298,111 +2403,6 @@
       "is_tested": true
     },
     {
-      "name": "DashboardPage",
-      "file_path": "src/features/dashboard/hooks/index.ts",
-      "line_number": 13,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "DashboardContent",
-      "file_path": "src/features/dashboard/hooks/index.ts",
-      "line_number": 23,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useNotifications",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 27,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useNotificationStats",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 38,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useAlertTriggers",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 49,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useNotificationPreferences",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 60,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useMarkNotificationAsRead",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 71,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useMarkAllNotificationsAsRead",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 86,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useDismissNotification",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 100,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useCreateAlertTrigger",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 115,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useUpdateAlertTrigger",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 131,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useDeleteAlertTrigger",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 151,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useUpdateNotificationPreferences",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 166,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useNotificationCenter",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 183,
-      "is_async": false,
-      "is_tested": false
-    },
-    {
-      "name": "useAlertTriggersManager",
-      "file_path": "src/features/dashboard/hooks/useNotifications.ts",
-      "line_number": 205,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
       "name": "useToolsReport",
       "file_path": "src/features/dashboard/hooks/useToolsData.ts",
       "line_number": 24,
@@ -2508,34 +2508,6 @@
       "is_tested": false
     },
     {
-      "name": "ExportButton",
-      "file_path": "src/features/dashboard/hooks/useExport.ts",
-      "line_number": 59,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "useExport",
-      "file_path": "src/features/dashboard/hooks/useExport.ts",
-      "line_number": 77,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "formatBytes",
-      "file_path": "src/features/dashboard/hooks/useExport.ts",
-      "line_number": 348,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "handleExport",
-      "file_path": "src/features/dashboard/hooks/useExport.ts",
-      "line_number": 62,
-      "is_async": true,
-      "is_tested": true
-    },
-    {
       "name": "useSavedVisualizations",
       "file_path": "src/features/dashboard/hooks/useVisualization.ts",
       "line_number": 18,
@@ -2631,6 +2603,34 @@
       "file_path": "src/features/dashboard/hooks/useForceSimulation.ts",
       "line_number": 168,
       "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "ExportButton",
+      "file_path": "src/features/dashboard/hooks/useExport.ts",
+      "line_number": 59,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "useExport",
+      "file_path": "src/features/dashboard/hooks/useExport.ts",
+      "line_number": 77,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "formatBytes",
+      "file_path": "src/features/dashboard/hooks/useExport.ts",
+      "line_number": 348,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "handleExport",
+      "file_path": "src/features/dashboard/hooks/useExport.ts",
+      "line_number": 62,
+      "is_async": true,
       "is_tested": true
     },
     {
@@ -3019,6 +3019,55 @@
       "is_tested": true
     },
     {
+      "name": "calculateHealthStatus",
+      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
+      "line_number": 56,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "getProgressColor",
+      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
+      "line_number": 67,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "getDependencyHealth",
+      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
+      "line_number": 77,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "getSeverityIcon",
+      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
+      "line_number": 86,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "ProgressBarWithLabel",
+      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
+      "line_number": 106,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "generateActionItems",
+      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
+      "line_number": 140,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "HealthSummary",
+      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
+      "line_number": 201,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
       "name": "TabPanel",
       "file_path": "src/features/dashboard/components/SettingsPage.tsx",
       "line_number": 52,
@@ -3159,51 +3208,16 @@
       "is_tested": true
     },
     {
-      "name": "calculateHealthStatus",
-      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
-      "line_number": 56,
+      "name": "DashboardLayout",
+      "file_path": "src/features/dashboard/components/DashboardLayout.tsx",
+      "line_number": 94,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "getProgressColor",
-      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
-      "line_number": 67,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "getDependencyHealth",
-      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
-      "line_number": 77,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "getSeverityIcon",
-      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
-      "line_number": 86,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "ProgressBarWithLabel",
-      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
-      "line_number": 106,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "generateActionItems",
-      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
-      "line_number": 140,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "HealthSummary",
-      "file_path": "src/features/dashboard/components/HealthSummary.tsx",
-      "line_number": 201,
+      "name": "handleMobileDrawerClose",
+      "file_path": "src/features/dashboard/components/DashboardLayout.tsx",
+      "line_number": 110,
       "is_async": false,
       "is_tested": true
     },
@@ -3253,20 +3267,6 @@
       "name": "handleRefresh",
       "file_path": "src/features/dashboard/components/InsightsPage.tsx",
       "line_number": 188,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "DashboardLayout",
-      "file_path": "src/features/dashboard/components/DashboardLayout.tsx",
-      "line_number": 94,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "handleMobileDrawerClose",
-      "file_path": "src/features/dashboard/components/DashboardLayout.tsx",
-      "line_number": 110,
       "is_async": false,
       "is_tested": true
     },
@@ -3341,16 +3341,16 @@
       "is_tested": true
     },
     {
-      "name": "MetricCard",
-      "file_path": "src/features/dashboard/components/MetricCard.tsx",
-      "line_number": 103,
+      "name": "ReportsPage",
+      "file_path": "src/features/dashboard/components/ReportsPage.tsx",
+      "line_number": 112,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "ReportsPage",
-      "file_path": "src/features/dashboard/components/ReportsPage.tsx",
-      "line_number": 112,
+      "name": "MetricCard",
+      "file_path": "src/features/dashboard/components/MetricCard.tsx",
+      "line_number": 103,
       "is_async": false,
       "is_tested": true
     },
@@ -3495,6 +3495,27 @@
       "is_tested": true
     },
     {
+      "name": "getMetricStatus",
+      "file_path": "src/features/dashboard/components/Dashboard.tsx",
+      "line_number": 73,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "formatNumber",
+      "file_path": "src/features/dashboard/components/Dashboard.tsx",
+      "line_number": 112,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "Dashboard",
+      "file_path": "src/features/dashboard/components/Dashboard.tsx",
+      "line_number": 133,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
       "name": "DashboardSkeleton",
       "file_path": "src/features/dashboard/components/PredictiveDashboard.tsx",
       "line_number": 62,
@@ -3533,27 +3554,6 @@
       "name": "getTrendIcon",
       "file_path": "src/features/dashboard/components/PredictiveDashboard.tsx",
       "line_number": 214,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "getMetricStatus",
-      "file_path": "src/features/dashboard/components/Dashboard.tsx",
-      "line_number": 73,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "formatNumber",
-      "file_path": "src/features/dashboard/components/Dashboard.tsx",
-      "line_number": 112,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "Dashboard",
-      "file_path": "src/features/dashboard/components/Dashboard.tsx",
-      "line_number": 133,
       "is_async": false,
       "is_tested": true
     },
@@ -4286,55 +4286,6 @@
       "is_tested": true
     },
     {
-      "name": "getConfidenceConfig",
-      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
-      "line_number": 36,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "getMetricColor",
-      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
-      "line_number": 60,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "getTrendIcon",
-      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
-      "line_number": 74,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "formatValue",
-      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
-      "line_number": 100,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "ConfidenceBar",
-      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
-      "line_number": 114,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "CardSkeleton",
-      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
-      "line_number": 158,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "PredictiveTrendCard",
-      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
-      "line_number": 176,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
       "name": "getRiskColor",
       "file_path": "src/features/dashboard/components/analytics/RiskHeatmap.tsx",
       "line_number": 53,
@@ -4391,44 +4342,51 @@
       "is_tested": true
     },
     {
-      "name": "getPriorityConfig",
-      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
-      "line_number": 47,
+      "name": "getConfidenceConfig",
+      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
+      "line_number": 36,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "getDifficultyConfig",
-      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
-      "line_number": 71,
+      "name": "getMetricColor",
+      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
+      "line_number": 60,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "ImpactIndicator",
-      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
-      "line_number": 89,
+      "name": "getTrendIcon",
+      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
+      "line_number": 74,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "EffortIndicator",
-      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
-      "line_number": 123,
+      "name": "formatValue",
+      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
+      "line_number": 100,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "ConfidenceBar",
+      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
+      "line_number": 114,
       "is_async": false,
       "is_tested": true
     },
     {
       "name": "CardSkeleton",
-      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
-      "line_number": 166,
+      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
+      "line_number": 158,
       "is_async": false,
       "is_tested": true
     },
     {
-      "name": "AnalyticsInsightCard",
-      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
-      "line_number": 197,
+      "name": "PredictiveTrendCard",
+      "file_path": "src/features/dashboard/components/analytics/PredictiveTrendCard.tsx",
+      "line_number": 176,
       "is_async": false,
       "is_tested": true
     },
@@ -4478,6 +4436,48 @@
       "name": "DebtBurndownChart",
       "file_path": "src/features/dashboard/components/analytics/DebtBurndownChart.tsx",
       "line_number": 294,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "getPriorityConfig",
+      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
+      "line_number": 47,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "getDifficultyConfig",
+      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
+      "line_number": 71,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "ImpactIndicator",
+      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
+      "line_number": 89,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "EffortIndicator",
+      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
+      "line_number": 123,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "CardSkeleton",
+      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
+      "line_number": 166,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "AnalyticsInsightCard",
+      "file_path": "src/features/dashboard/components/analytics/AnalyticsInsightCard.tsx",
+      "line_number": 197,
       "is_async": false,
       "is_tested": true
     },
@@ -5469,6 +5469,48 @@
       "is_tested": true
     },
     {
+      "name": "loadDependencyReport",
+      "file_path": "src/features/dashboard/api/graphApi.ts",
+      "line_number": 21,
+      "is_async": true,
+      "is_tested": true
+    },
+    {
+      "name": "getNodeType",
+      "file_path": "src/features/dashboard/api/graphApi.ts",
+      "line_number": 37,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "getNodeLabel",
+      "file_path": "src/features/dashboard/api/graphApi.ts",
+      "line_number": 58,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "getModule",
+      "file_path": "src/features/dashboard/api/graphApi.ts",
+      "line_number": 76,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "transformToGraph",
+      "file_path": "src/features/dashboard/api/graphApi.ts",
+      "line_number": 85,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
+      "name": "generateMockGraph",
+      "file_path": "src/features/dashboard/api/graphApi.ts",
+      "line_number": 265,
+      "is_async": false,
+      "is_tested": true
+    },
+    {
       "name": "fetchNotifications",
       "file_path": "src/features/dashboard/api/notificationsApi.ts",
       "line_number": 27,
@@ -5577,48 +5619,6 @@
       "name": "generateDefaultPreferences",
       "file_path": "src/features/dashboard/api/notificationsApi.ts",
       "line_number": 412,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "loadDependencyReport",
-      "file_path": "src/features/dashboard/api/graphApi.ts",
-      "line_number": 21,
-      "is_async": true,
-      "is_tested": true
-    },
-    {
-      "name": "getNodeType",
-      "file_path": "src/features/dashboard/api/graphApi.ts",
-      "line_number": 37,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "getNodeLabel",
-      "file_path": "src/features/dashboard/api/graphApi.ts",
-      "line_number": 58,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "getModule",
-      "file_path": "src/features/dashboard/api/graphApi.ts",
-      "line_number": 76,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "transformToGraph",
-      "file_path": "src/features/dashboard/api/graphApi.ts",
-      "line_number": 85,
-      "is_async": false,
-      "is_tested": true
-    },
-    {
-      "name": "generateMockGraph",
-      "file_path": "src/features/dashboard/api/graphApi.ts",
-      "line_number": 265,
       "is_async": false,
       "is_tested": true
     },
